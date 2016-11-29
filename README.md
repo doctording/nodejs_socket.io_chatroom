@@ -21,9 +21,9 @@ project operation environment
 
 How to run the project
 ===
-*  Firstly, git clone this project 
+*  Firstly, git clone this project or **fork** it
 ```
-
+git clone https://github.com/doctording/nodejs_socket.io_chatroom
 ```
 
 * Secondly, run the server and client 
@@ -44,6 +44,13 @@ you should modify the codes first,as you can see in index.html, the ip address s
 
 Codes details
 ===
+you should use socket.io.js in your html,and I copy the socket.io.js,then in html, we can include such file（notice that the ip should be yours）
+```
+<script src="http://192.168.1.116:3000/socket.io/socket.io.js"></script>
+```
+
+----
+
 you shuold know socket.io's methods of **on()** and **emit()**
 
 * in server, the login function code as follows
