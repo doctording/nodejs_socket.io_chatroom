@@ -14,7 +14,7 @@ project operation environment
 * os: ubuntu16.04 64bit
 * node version: v5.8.0
 * some modules shown as follows
-![](/home/ding/Pictures/1.png) 
+![](http://i.imgur.com/IYWKK6v.png)
 
 * editor: vim & WebStorm 
 
