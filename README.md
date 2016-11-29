@@ -38,7 +38,7 @@ you should modify the codes first,as you can see in index.html, the ip address s
 
 
 * Then,you can enter the IP request address(htttp:your ip:your port/) in the browser ,shown as follows
-![](/home/ding/Pictures/运行截图.png) 
+![](http://i.imgur.com/1N7sQpz.png) 
 
 * Lastly, you can modify the project as you can to make it more useful and accessible.
 
